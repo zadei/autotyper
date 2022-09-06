@@ -8,7 +8,6 @@
 ###### If you want it to type faster, decrease the *time.sleep* value on line 52
 ###### If you want it to type slower, increase the value
 
-Questions or Suggestions:
-##Discord: zade#1337
+If you have any questions or suggestions, add my discord: zade#1337
 
 ###### works best with monkeytype
