@@ -5,5 +5,5 @@
 4. Install Tesseract (https://sourceforge.net/projects/tesseract-ocr-alt/files/tesseract-ocr-setup-3.02.02.exe/download) to C:/Program Files/
 5. Enjoy :) 
 
-If you want it to type faster, decrease the *time.sleep* value on line 52
+If you want it to type faster, decrease the *time.sleep* value on line 52\n
 If you want it to type slower, increase the value
