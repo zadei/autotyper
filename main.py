@@ -10,10 +10,6 @@ import random
 random.seed(69)
 keyboard = Controller()
 
-#if there is a previous image, remove it
-if os.path.exists("ss.png"):
-    os.remove("ss.png")
-
 # pyautogui.click(337, 479)
 # time.sleep(1)
 # #create new screenshot of text box
