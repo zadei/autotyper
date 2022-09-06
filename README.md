@@ -7,3 +7,5 @@
 
 ###### If you want it to type faster, decrease the *time.sleep* value on line 52
 ###### If you want it to type slower, increase the value
+
+Discord: zade#1337
