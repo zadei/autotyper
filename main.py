@@ -10,9 +10,9 @@ import random
 random.seed(69)
 keyboard = Controller()
 
-# #if there is a previous image, remove it
-# if os.path.exists("ss.png"):
-#     os.remove("ss.png")
+#if there is a previous image, remove it
+if os.path.exists("ss.png"):
+    os.remove("ss.png")
 
 # pyautogui.click(337, 479)
 # time.sleep(1)
@@ -23,7 +23,7 @@ keyboard = Controller()
 #path to image
 path_to_image = 'ss.png'
 
-# #display image (testing)
+#display image (testing)
 img = Image.open(path_to_image)
 # input("press enter if the screenshot was OK")
 
